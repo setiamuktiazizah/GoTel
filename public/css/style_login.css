@@ -1,0 +1,82 @@
+*{
+    font-family: 'inter';
+    src: url(https://fonts.gstatic.com/s/inter/v11/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc.woff2) format('woff2');
+}
+
+.wrapper{
+    display:grid;
+    grid-template-columns: 5fr 5fr;
+}
+
+.title{
+    text-align: center;
+    margin-top: 12rem;
+    margin-bottom: 10rem;
+    font-size: 5rem;
+}
+
+.label{
+    margin-top: 2rem;
+    margin-left: 17rem;
+    font-size: 3.5rem;
+    font-weight: bold;
+}
+
+.input{
+    margin-bottom: 2rem;
+    margin-left: 17rem;
+    font-size: 3rem;
+    border-color: #D9D9D9;
+    border-radius: 10px;
+}
+
+.bottom-form{
+    color: #47B5FF;
+    font-size: 2.5rem;
+}
+
+.bottom-form input{
+    margin-left: 17rem;
+    font-size: 1.75rem;
+    transform: scale(2.5);
+}
+
+.bottom-form a{
+    text-decoration: none;
+    margin-left: 15rem;
+    color: #47B5FF;
+    font-size: 2.5rem;
+}
+
+.login-button a{
+    background-color: #0572E6;
+    color: white;
+    width: 740px;
+    height: 80px;
+    margin-top: 5rem;
+    margin-left: 17rem;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 3.5rem;
+    border-radius: 10px;
+    position: absolute;
+    border: 3px solid #0572E6;
+    text-decoration: none;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.signup-button{
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.signup-button label{
+    font-size: 3rem;
+}
+
+.signup-button a{
+    font-size: 3rem;
+    text-decoration: none;
+    color: #47B5FF;
+}
