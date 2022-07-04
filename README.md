@@ -10,6 +10,7 @@ Zaky Abdullah Basith 	(M0520082) <br />
 
 
 **GoTel adalah sebuah web application dimana pengguna dapat menyewa kamar pada hotel yang diinginkan. Tidak hanya itu, GoTel juga menawarkan paket liburan lengkap dengan akomodasi dan hotel sesuai paket pilihan. Liburan jadi lebih mudah. Sat set sat set, ya di GoTel aja!** <br />
+
 Gotel dibangun dengan menggunakan framework laravel serta dalam pengerjaan tas management kami menggunakan trello dan design mockup dengan figma.
 
 
