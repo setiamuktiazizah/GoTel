@@ -1,0 +1,119 @@
+.search{
+	border-radius: 31px;
+
+}
+nav {
+	border-bottom: 1px solid #BEBBB6;
+	margin-bottom: 4px;
+}
+.menu{
+	margin-left: 50px;
+}
+.submenu{
+	margin-left: 16px;
+}
+img{
+	margin-right: 4px;
+}
+.content{
+	width: 90%;
+	height: 800px;
+
+	background: #FFFFFF;
+	box-shadow: 5px 5px 50px 5px rgba(0, 0, 0, 0.15);
+	border-radius: 10px;
+	padding: 3%;
+	margin: 6%;
+}
+h6{
+	color: #BEBBB6;
+}
+.prosedur{
+	justify-content: center;
+	margin-top: 30px;
+}
+.subprosedur{
+	text-align: center;
+}
+
+.circle{
+	border-radius: 500px;
+	width: 47px;
+	height: 47px;
+	background-color: #0572E6;
+	margin: 0 30px 0 30px;
+	padding-top: 10%;
+}
+.form{
+	width: auto;
+	padding-left: 17%;
+	padding-right: 17%;
+	margin-top: 70px;
+	justify-content: space-between;
+}
+form{
+	margin: 15px;
+}
+
+form input{
+	border-radius: 5px;
+	width: 100%;
+	margin-bottom: 15px;
+}
+
+.tamu{
+	margin-left: 90px;
+}
+.tamu input{
+	width: 300px;
+}
+.tombol{
+	width: 100%;
+	padding-left: 75%;
+}
+.tombol button{
+	margin-left:20px;
+}
+
+footer{
+	background-color:#06283D;
+	color: #FFFFFF;
+	padding: 30px;
+}
+.foo{
+	width: 25%;
+	margin-left: 30px;
+}
+.partner{
+	margin: 30px 0 30px 0;
+	width:75%;
+	border: 3px solid #FFFFFF;
+	border-radius: 5px;
+}
+.kotak{
+	background-color: #FFFFFF;
+	align-content: space-around;
+}
+.kotak img{
+	margin: 15px;
+
+}
+.text{
+	margin-right: 30px;
+}
+.text a{
+	color: #FFFFFF;
+}
+.link{
+	width: 150%;
+	justify-content: space-between;
+	margin-bottom: 85px;
+}
+.foo2{
+	margin-left: 40px;
+	justify-content: space-evenly;
+}
+.sosmed img{
+	margin-right: 10px;
+	margin-left:30px ;
+}
